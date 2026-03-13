@@ -88,7 +88,7 @@ Response file: pipe\format_response.txt
 
 4) Run the test client
 5) Open a second terminal and run:
-6) 
+
 Linux / Mac:python3 tests/test_client.py
 Windows: python tests\test_client.py
 
